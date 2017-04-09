@@ -1,0 +1,15 @@
+---
+title: Barn door
+subtitle: Custom barn door
+layout: default
+modal-id: 5
+date: 2016-03-15
+img: barndoor.jpg
+thumbnail: barndoor.jpg
+alt: image-alt
+project-date: Mar 2016
+client: Lowen Family
+category: Carpentry
+description: Barn door installation
+
+---

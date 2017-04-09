@@ -1,0 +1,15 @@
+---
+title: Custom deck
+subtitle: Custom deck installation
+layout: default
+modal-id: 7
+date: 2016-03-27
+img: customdeck.jpg
+thumbnail: customdeck.jpg
+alt: image-alt
+project-date: Mar 2016
+client: Wedgewood Family
+category: Carpentry
+description: Custom deck build
+
+---

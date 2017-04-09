@@ -1,0 +1,15 @@
+---
+title: Wedgewood Home
+subtitle: Window Replacement
+layout: default
+modal-id: 2
+date: 2015-09-13
+img: wedgewood-before.jpg
+thumbnail: wedgewood-after.jpg
+alt: image-alt
+project-date: Sep 2015
+client: Wedgewood Family
+category: Window Install
+description: 12 replacement windows. Removed old windows, installed new vinyl windows, trimmed around the outside of the new windows.
+
+---

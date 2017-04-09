@@ -1,0 +1,16 @@
+id: d1692702-119f-459e-ba33-0239e20d254f
+deploy:
+  ignore: []
+  directory: .
+plugins:
+  - name: form-submit
+    path: form-submit-ajax
+    method: post
+    options:
+      formName: contact-us-ajax
+      recaptchaSecret: $CONTACT_FORM_RECAPTCHA_KEY
+      targets:
+        - name: email
+          subject: Demo contact-form submission
+          recipients: [jason@aerobatic.com]
+  - name: webpage

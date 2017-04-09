@@ -1,0 +1,15 @@
+---
+title: Basement remodel
+subtitle: New walls, floor, etc.
+layout: default
+modal-id: 4
+date: 2016-02-01
+img: carter-before.jpg
+thumbnail: carter-after.jpg
+alt: image-alt
+project-date: Feb 2016
+client: Carter Family
+category: Remodel
+description: Full basement remodel
+
+---

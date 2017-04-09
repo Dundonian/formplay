@@ -1,0 +1,32 @@
+<!-- About Section -->
+    <section id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">About</h2>
+                    <h3 class="section-subheading text-muted">20 years of commercial and residential construction experience.</h3>
+                </div>
+            </div>
+            <div class="row">
+                 {% for member in site.people %}
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
+                        <h4>{{ member.name }}</h4>
+                        <p class="text-muted">{{ member.position }}</p>
+                        <ul class="list-inline social-buttons">
+                            {% for network in member.social %}
+                            <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+                            {% endfor %}
+
+                        </ul>
+                    </div>
+                </div>
+                {% endfor %}
+                <div class="col-lg-8">
+                    <p>Ryan of Rhino Construction apprenticed in Scotland where he learned from the most experienced tradesmen, developing a strong work ethic and pride of craftsmanship.</p>
+                    <p>He brought his talents to Seattle 15 years ago and has worked in both residential and commercial construction.  You can see examples of his professional commercial window installation at the new Insignia building at 6th & Bell or one of his first commercial window installations in Seattle at Julie’s Landing on South Lake Union.  Ryan’s residential work can be found throughout many Seattle neighborhoods, including his own, Queen Anne.</p>
+                </div>
+            </div>
+        </div>
+    </section>

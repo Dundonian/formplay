@@ -1,0 +1,15 @@
+---
+title: Nanawall Door
+subtitle: Bi-folding door
+layout: default
+modal-id: 3
+date: 2016-03-23
+img: nanawall-before.jpg
+thumbnail: nanawall-after.jpg
+alt: image-alt
+project-date: Mar 2016
+client: Shoreline Family
+category: Window Install
+description: European bi-folding door installation.
+
+---

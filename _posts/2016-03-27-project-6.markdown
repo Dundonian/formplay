@@ -1,0 +1,15 @@
+---
+title: Front door
+subtitle: Front door installation
+layout: default
+modal-id: 6
+date: 2016-03-27
+img: magnoliadoor-before.jpg
+thumbnail: magnoliadoor-after.jpg
+alt: image-alt
+project-date: Mar 2016
+client: Magnolia Family
+category: Door Installation
+description: Door installation
+
+---

@@ -1,0 +1,22 @@
+.navbar-brand img {
+  max-height: 40px;
+  overflow: visible;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.img-center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@font-face { 
+	font-family: Rodondo; 
+	src: url('css/Rodondo.otf'); 
+}
+
+.brand-text { 
+	font-family: Rodondo; 
+	color: white;
+	letter-spacing: 3px;
+}
